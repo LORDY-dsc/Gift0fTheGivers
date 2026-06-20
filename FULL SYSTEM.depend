@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1758672672 source:c:\users\admin\onedrive - sol plaatje university\documents\#siyas work\full system\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<cctype>
+	<windows.h>
+	"Login_Manager.h"
+	"Doubly_Linked_List.h"
+	"Arrays_PartB.h"
+	"Binary_Search_Trees.h"
+
+1781125460 c:\users\admin\onedrive - sol plaatje university\documents\#siyas work\full system\login_manager.h
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<cctype>
+	<windows.h>
+	"Doubly_Linked_List.h"
+	"Arrays_PartB.h"
+	"Binary_Search_Trees.h"
+
+1758672657 c:\users\admin\onedrive - sol plaatje university\documents\#siyas work\full system\doubly_linked_list.h
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<cctype>
+	<windows.h>
+	"Login_Manager.h"
+	"Arrays_PartB.h"
+	"Binary_Search_Trees.h"
+
+1758645751 c:\users\admin\onedrive - sol plaatje university\documents\#siyas work\full system\arrays_partb.h
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<cctype>
+	<windows.h>
+	"Login_Manager.h"
+	"Doubly_Linked_List.h"
+	"Binary_Search_Trees.h"
+
+1758671925 c:\users\admin\onedrive - sol plaatje university\documents\#siyas work\full system\binary_search_trees.h
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<cctype>
+	<iomanip>
+	<windows.h>
+	"Login_Manager.h"
+	"Doubly_Linked_List.h"
+	"Arrays_PartB.h"
+
